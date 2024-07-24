@@ -59,7 +59,7 @@ header{direction: flex;flex-direction: column;}
 #hu{position: absolute;top: 10px; left:90px ;}
 #b3{position: absolute; top:20px ; left:310px ; }
 .i9{position: absolute; left: 200px; top: 270px; width: 140px; height: 30px; display: flex; }
-#i1{position: absolute; top:150px ; left:80px ;}
+#i1{position: absolute; top:150px ; left:80px ; padding: 2px; padding-right: 0px;}
 #b1{position: absolute;top: 150px; left:290px ;}
 img{padding: 5px; margin: 10px 0px;}
 .d1{width: 400px;  background-color: azure; display: flex;flex-direction: column;
